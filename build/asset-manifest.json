@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-shop-platzi/static/css/main.18c150f3.css",
+    "main.js": "/react-shop-platzi/static/js/main.dda239a7.js",
+    "static/media/logo_yard_sale.svg": "/react-shop-platzi/static/media/logo_yard_sale.6d98da71f7a1ec368eab5160ecc06909.svg",
+    "static/media/bt_add_to_cart.svg": "/react-shop-platzi/static/media/bt_add_to_cart.d6e969538a58d48c9495247caf64324d.svg",
+    "static/media/icon_shopping_cart.svg": "/react-shop-platzi/static/media/icon_shopping_cart.995748b73b8792b4b60fd1ed0515faaa.svg",
+    "static/media/icon_menu.svg": "/react-shop-platzi/static/media/icon_menu.3ebff34167c36968ae6f8c8990cf7003.svg",
+    "index.html": "/react-shop-platzi/index.html",
+    "static/media/flechita.svg": "/react-shop-platzi/static/media/flechita.5634ade2a3a788cac60b3d06a4242587.svg",
+    "main.18c150f3.css.map": "/react-shop-platzi/static/css/main.18c150f3.css.map",
+    "main.dda239a7.js.map": "/react-shop-platzi/static/js/main.dda239a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c150f3.css",
+    "static/js/main.dda239a7.js"
+  ]
+}

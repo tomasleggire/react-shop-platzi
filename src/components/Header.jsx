@@ -1,10 +1,10 @@
 import React, { useContext, useState } from 'react';
-import '@styles/Header.scss';
+import '../styles/Header.scss';
 import Menu from './Menu';
 import MyOrder from '../containers/MyOrder';
-import menu from '@icons/icon_menu.svg';
-import logo from '@logos/logo_yard_sale.svg';
-import shoppingCart from '@icons/icon_shopping_cart.svg';
+import menu from '../assets/icons/icon_menu.svg';
+import logo from '../assets/logos/logo_yard_sale.svg';
+import shoppingCart from '../assets/icons/icon_shopping_cart.svg';
 import AppContext from '../context/AppContext';
 
 const Header = () => {

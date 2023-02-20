@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
-    "build": "webpack --mode production",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
@@ -41,5 +41,17 @@
     "sass-loader": "^12.1.0",
     "style-loader": "^3.2.1"
   },
-  "homepage": "https://tomasleggire.github.io/react-shop-platzi"
+  "homepage": "https://tomasleggire.github.io/react-shop-platzi",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
